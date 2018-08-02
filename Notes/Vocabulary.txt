@@ -1,1 +1,2 @@
-conversely, piece-wise, ordered-pair,
+conversely, piece-wise, ordered-pair, 
+equation, expression, function, relation
