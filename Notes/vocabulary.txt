@@ -1,0 +1,14 @@
+conversely, piece-wise, ordered-pair, 
+equation, expression, function, relation
+https://simple.wikipedia.org/wiki/Binary_operation : "Others: The sum between matrices. 
+The composition of functions.
+The union and the intersection of sets are also two different 
+binary opeations on the set of all sets, 
+or on subsets in a power set." Unable to understand this statement.
+A set of natural numbers is algebraic structure for plus, minus, 
+multiplication, division 
+Where do I begin mathematics from?
+1. Numbers
+2. Structures
+3. Space
+4. Change
