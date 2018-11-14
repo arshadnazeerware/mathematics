@@ -1,2 +1,5 @@
-conversely, piece-wise, ordered-pair, 
-equation, expression, function, relation
+Numbers:
+Rotational symmetry of a square.
+Symmetric group
+Higher mathematics
+Find how to write equations for solids.
