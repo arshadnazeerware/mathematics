@@ -1,2 +1,1 @@
-# mathematics
-softmatics and mathware
+Write the understanding
