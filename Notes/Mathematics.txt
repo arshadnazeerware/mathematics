@@ -1,5 +1,12 @@
-Numbers:
+Dimension curves Abstract Algebra 
+Algebraic structure
+Numbers
 Rotational symmetry of a square.
 Symmetric group
 Higher mathematics
-Find how to write equations for solids.
+Find how to write equations 
+for solids.
+Intrinsic Properties orientation 
+geometrical object 
+(quantity, structure, space, and change
+arithmetic, algebra, geometry, and analysis)

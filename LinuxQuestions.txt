@@ -1,0 +1,21 @@
+What is the role of other Linux Kernel Subsystems in building Linux Device Drivers? 
+What role other Linux Kernel Subsystems while working with Linux Device Drivers?
+How does
+User does something in Userland and the 
+How can I make use of other Kernel Subsystems in building or executing Linux Kernel Device 
+Drivers?
+Can I make use of Linux Kernel Subsystems in building or running Linux Device Driver Subsystem?
+How do I Linux Kernel Subsystems
+How is Linux Kernel Subsystems useful for Linux Device Drivers?
+How do I make use of other Linux Kernel Subsystem in programming or running Linux 
+Device Drivers?
+How can I leverage Linux Kernel Subsystems when working with Linux Device Drivers?
+How can I make use of Linux Kernel Subsystems
+Process Management, VFS, Memory Management, Network, 
+How is Linux Kernel Subsystems useful for Linux Device Drivers?
+How can I use Linux Device Drivers with Linux Kernel Subsystems?
+Can Linux Kernel Device Driver Subsystem utilize other Linux Kernel Subsystems?
+Can my Linux Kernel Device Driver program run concurrently 
+How do I make my Linux Kernel Device Driver run concurrently?
+Process Management, Memory Management, VFS, Device Control, Network... 
+
